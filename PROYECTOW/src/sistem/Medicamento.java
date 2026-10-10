@@ -62,9 +62,9 @@ public class Medicamento {
         System.out.println("Stock minimo: " + stockMinimo);
 
         if (stockBajo()) {
-            System.out.println("ALERTA: STOCK BAJO");
+            System.out.println("ALERTA, EL STOCK ESTA BAJO");
         } else {
-            System.out.println("Estado: Stock suficiente");
+            System.out.println("Stock suficiente");
         }
     }
 }
