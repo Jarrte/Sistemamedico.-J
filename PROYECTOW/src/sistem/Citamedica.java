@@ -63,7 +63,7 @@ public class Citamedica {
         System.out.println("---Datos de la Cita Medica---");
         System.out.println("Datos del paciente:" + paciente);
         System.out.println("Fecha de la atención Medica:");
-        System.out.println("Fecha" + Fecha + "Hora de la Atención" + Hora);
+        System.out.println("Fecha:"  + Fecha +  "Hora de la Atención:"  + Hora);
         System.out.println("Estado del paciente:" + EstadodelPaciente);
         System.out.println("Medico:" + medico);
     }
