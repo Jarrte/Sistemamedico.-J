@@ -1,2 +1,2 @@
 # Sistemamedico.-J
-Entrega del proyecto
+Entrega del proyecto del curso de lengauje
